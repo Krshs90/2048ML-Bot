@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 2048 Machine Learning Bot
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
@@ -35,7 +34,3 @@ The project is split into modular scripts to accommodate different use cases:
 ## Credits
 
 Developed by Krshs90
-=======
-# 2048ML-Bot
-Machine learning bot that plays 2048 for you!
->>>>>>> ac5c641a434a5aeead59cb6c3ffd013cc8bdb8e7
