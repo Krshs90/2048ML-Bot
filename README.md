@@ -7,6 +7,10 @@
 
 An advanced, high-performance Reinforcement Learning agent designed to autonomously play and master the game 2048. Utilizing Temporal Difference Learning (TD(0)) and Symmetric N-Tuple Networks, this bot is capable of achieving superhuman scores.
 
+## Live Demo
+
+https://youtu.be/0cvE0muE-vo
+
 ## Overview
 
 This project implements a headless training environment to build a massive 16.7 million state neural network, alongside three distinct browser automation scripts to deploy the trained agent in real-time. The system evaluates the board across all 8 mathematical symmetries simultaneously, allowing it to learn at an accelerated rate.
