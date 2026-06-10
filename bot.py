@@ -29,7 +29,7 @@ def run_target_bot():
             print(f"Target not reached. (Max tile: {max_tile}). Restarting...")
             try:
                 page.locator(".retry-button").click(timeout=3000)
-                time.sleep(1) # wait for reset
+                time.sleep(1)
             except:
                 print("Could not find retry button. Please check browser.")
                 break

@@ -3,7 +3,6 @@ import os
 import numpy as np
 from playwright.sync_api import sync_playwright
 
-# Pre-compute left moves for rows to speed up search
 MOVE_CACHE = {}
 
 def get_row_move_left(row):
